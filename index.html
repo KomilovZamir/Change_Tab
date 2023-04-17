@@ -4,9 +4,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Css link -->
+    <link rel="stylesheet" href="css/component.css">
     <title>Change Tab</title>
 </head>
 <body>
-    
+    <div id="change">
+        <div class="form">
+            <form action="#">
+                <label for="tab">
+                    <input type="number" id="tab" placeholder="Enter tab index">
+                    <button href="#" class="btn-light">Change tab</button>
+                </label>
+                <!-- opinion -->
+                <ul class="opinion">
+                    <li onclick="positiveFunc()" id="positive" class="active">Positive</li>
+                    <li onclick="negativeFunc()" id="negative">negative</li>
+                    <li onclick="neutralFunc()" id="neutral">neutral</li>
+                </ul>
+                <p>Positive content</p>
+            </form>
+        </div>
+    </div>
 </body>
 </html>
