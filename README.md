@@ -2,6 +2,6 @@
 - JavaScript 
 - HTML5
 - Css3
-- can you view [my Project](https://github.com/ToshpulatovAlimardon/change-tab.git)
+- can you view [my Project](https://toshpulatovalimardon.github.io/change-tab.github.io/)
 # Author 
 (2023) Toshpo'latov Alimardon
