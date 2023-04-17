@@ -2,6 +2,6 @@
 - JavaScript 
 - HTML5
 - Css3
-- can you view [my Project](https://kadirov-fariddun.github.io/DOM-change-tab/)
+- can you view [my Project]([https://github.com/ToshpulatovAlimardon/change-tab.git](https://github.com/ToshpulatovAlimardon/change-tab.git))
 # Author 
-(2023) Kadirov Fariddun
+(2023) Toshpo'latov Alimardon
